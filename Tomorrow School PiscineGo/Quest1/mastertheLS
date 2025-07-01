@@ -1,1 +1,0 @@
-ls -1Ftu | tr '\n' ',' | sed 's/,$//'ls -1Ftu | tr '\n' ',' | sed 's/,$//'
